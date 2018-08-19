@@ -9,6 +9,9 @@ Going to the "ACCOUNT" tab and clicking on it
 Takes to "membership"," plan" page .On the same page click the "log out" button.
 Again it takes to login page.]
 
+BASE APP.JAVA contains the whole coding.
+
+
 TOOLS REQUIRED FOR AUTOMATION:  ECLIPSE, SELENIUM , TEST NG from ECLIPSE MARKET PLACE INSTALLED
 Browser used is CHROME.
 The code can be ran on other browser as well.
